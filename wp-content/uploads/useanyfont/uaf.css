@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'sfaradi';
+					src: url('/wp-content/uploads/useanyfont/80sfaradi.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/80sfaradi.woff') format('woff');
+					font-display: auto;
+				}
+
+				.sfaradi{font-family: 'sfaradi' !important;}
+
+		
